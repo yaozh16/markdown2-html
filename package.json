@@ -1,7 +1,7 @@
 {
   "name": "markdown2-html",
   "main": "./lib/markdown2-html",
-  "version": "0.0.4",
+  "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
